@@ -2,9 +2,9 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/03-simple-predictions.git/master)
 
-The aim of today's session will be to introduce methods to make sure that you're starting with quality data. As all data science methods are garbage in/garbage out you need to make sure you can explore new datasets quickly to assess whether your approach is viable. We will work towards building a basic exploratory data analysis framework with a checklist of things you should be looking out for.
+The aim of today's session will be to introduce simple regression as the basis for prediction, and discuss the factors that alter its accuracy and effectiveness. We'll move onto the basics of statisticall modelling and examine some tools that let us emprically choose between the plethora of options and models availables to us.
 
-You should aim to ...
+You should aim to understand the basics of regression and how outliers, missing data and noise affect predictions. You'll should also understand the principle of Occam's Razor and how to choose between basic statistical models while evaulating their effectiveness. You should also aim to understand how heirarchical modelling can help you model more complex processes or datasets in a simple way.
 
 ## Pre-session Reading & Resources
 
