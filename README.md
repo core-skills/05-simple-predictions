@@ -10,4 +10,4 @@ While linear regression is something you've most certainly encountered before, w
 
 ## Pre-session Reading & Resources
 
-**Todo:** add pre-session reading and resources (and _why_ you might like to read them - see [week two's README](https://github.com/core-skills/02-getting-to-know-the-tools/blob/master/README.md) as an example)
+**Todo:** there is no pre-reading at this time, but after the session we'll add resources that will be of value to you.  Please browse through them before next week.
