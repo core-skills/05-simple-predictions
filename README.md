@@ -2,9 +2,11 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/03-simple-predictions.git/master)
 
-The aim of today's session will be to introduce simple regression as the basis for prediction, and discuss the factors that alter its accuracy and effectiveness. We'll move onto the basics of statisticall modelling and examine some tools that let us emprically choose between the plethora of options and models availables to us.
+The aim of today's session will be to introduce simple linear regression as the basis for prediction, and discuss the factors that alter its accuracy and effectiveness. We'll move onto more complex linear regression situations and show how even some non-linear datasets can be used with linear regression, and then we'll show how these tools can also be used classification problems.  We will make our first machine learning models in this session.
 
-You should aim to understand the basics of regression and how outliers, missing data and noise affect predictions. You'll should also understand the principle of Occam's Razor and how to choose between basic statistical models while evaulating their effectiveness. You should also aim to understand how heirarchical modelling can help you model more complex processes or datasets in a simple way.
+You should aim to understand the basics of regression and outliers, how regression models can be limited by statistical assumptions about the data and how to recognise when these assumptions are being violated.  You'll should also understand the principle of Occam's Razor and how to choose between basic statistical models while evaluating their effectiveness.
+
+While linear regression is something you've most certainly encountered before, we'll be framing much of today's work in the language and approaches of machine learning, which will be applicable over the next few weeks.
 
 ## Pre-session Reading & Resources
 
