@@ -1,4 +1,4 @@
-# CORE Skills Program - Day 5 - Simple predictions, regression and statistical model building
+# CORE Skills Data Science Springboard - Day 5 - Simple predictions, regression and statistical model building
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/05-simple-predictions.git/master)
 
