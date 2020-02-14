@@ -1,6 +1,6 @@
-# Core skills program - week 3 - Simple predictions, regression and statistical model building
+# CORE Skills Program - Day 5 - Simple predictions, regression and statistical model building
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/03-simple-predictions.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/05-simple-predictions.git/master)
 
 The aim of today's session will be to introduce simple linear regression as the basis for prediction, and discuss the factors that alter its accuracy and effectiveness. We'll move onto more complex linear regression situations and show how even some non-linear datasets can be used with linear regression, and then we'll show how these tools can also be used classification problems.  We will make our first machine learning models in this session.
 
