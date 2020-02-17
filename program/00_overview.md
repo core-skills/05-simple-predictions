@@ -33,7 +33,7 @@
 | 13:00 | 14:30 | [**Linear Models II**]           |
 | 14:30 | 15:00 | *Afternoon Tea*                  |
 | 15:00 | 15:20 | [**Robust Regression**]          |
-| 15:20 | 16:30 | [**Apply to your own Problem**]  |
+| 15:20 | 16:30 | **Apply to your own Problem**    |
 | 16:30 | 16:45 | [**Closeout**]                   |
 
 [**Models & Regression**]: ./01_modelsregression.md
