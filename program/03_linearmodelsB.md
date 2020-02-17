@@ -24,8 +24,8 @@ A categorical variable can take a limited, often fixed, number of values assigni
 
 ### Representing categorical data as tidy data
 
-| 10 min |
-| ------ |
+| *10 min* |
+| -------- |
 
 | :question: What problems can you encounter with categorical data?   |
 | ------------------------------------------------------------------- |
@@ -34,8 +34,8 @@ Categorical data can often have unique and meaningless labels, which are had to 
 
 ### Logistic regression
 
-| 10 min |
-| ------ |
+| *10 min* |
+| -------- |
 
 Logistic regression can be seen as the equivalent of linear regression for categorical data. It is based on a sigmoid function that takes a real number as input and returns a value between 0 and 1:
 
@@ -51,8 +51,8 @@ label = g(f(x)) > threshold
 
 ### Exercise: Using logistic regression
 
-| 20 min |
-| ------ |
+| *20 min* |
+| -------- |
 
 Open and go through [XXXX.ipynb].
 
@@ -70,8 +70,8 @@ Fitting a model to data is a subtle process that aims at finding the right balan
 
 ### Occam’s Razor: A general overview of validation
 
-| 5 min |
-| ----- |
+| *5 min* |
+| ------- |
 
 Occam’s (or Ockham’s) Razor relates to the law of parsimony, and is attributed to Franciscan friar William of Ockham (c. 1287–1347). [It states](http://www.irishphilosophy.com/2014/05/27/who-sharpened-occams-razor/): 
 
@@ -88,8 +88,8 @@ This refers to how to select a model for a particular problem:
 
 ### Exercise: Importance of validation
 
-| 20 min |
-| ------ |
+| *20 min* |
+| -------- |
 
 Open and go through [XXXX.ipynb].
 
@@ -97,8 +97,8 @@ Open and go through [XXXX.ipynb].
 
 ### Bias-variance trade-off
 
-| 15 min |
-| ------ |
+| *15 min* |
+| -------- |
 
 The bias-variance trade-off results from minimizing two sources of error at the same time:
 
