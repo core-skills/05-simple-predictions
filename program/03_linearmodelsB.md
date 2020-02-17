@@ -41,11 +41,11 @@ Logistic regression can be seen as the equivalent of linear regression for categ
 
 g(z) = 1/(1 + e<sup>-z</sup>)
 
-This returned value corresponds to the probability that a sample belongs to a given category. Instead of using a real value as input for z, we can use a linear model:
+This returned value corresponds to the probability that a sample belongs to a given category. Instead of using a real value as input for *z*, we can use a linear model:
 
 z = f(x) = ax + b
 
-Where a is the coefficient, b the intercept, and x the input feature. Training a logistic regression means finding a and b using the data. We can then get label predictions using:
+Where *a* is the coefficient, *b* is the intercept, and *x* is the input feature. Training a logistic regression means finding *a* and *b* using the data. We can then get label predictions using:
 
 label = g(f(x)) > threshold
 
