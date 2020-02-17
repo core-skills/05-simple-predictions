@@ -9,17 +9,17 @@
 
 ## Aims
 
-1. Start building models of data using linear and logistic regression.
-2. Understand the applicability of each method and the validation of a model.
+1. Perform statistical model building.
+2. Conduct regression.
+3. Generate simple predictions - regression.
 
 ## Learning Outcomes
 
-1. Understand the general framework of machine learning.
-2. Build models using linear and logistic regression.
-3. Understand the statistical assumptions of linear regression.
-4. Appreciate the broader applicability of linear regression thanks to data transformations.
-5. Apply alternative fitting scheme in linear regression to apply it to problems that would otherwise lead to meaningless models.
-6. Perform model validation.
+1. Understand regression as the basis for prediction.
+2. Understand how outliers and noisy data affect results.
+3. Understand the impact of missing data and recall practical solutions to work with incomplete data sets.
+4. Understand how to choose between basic statistical models and evaluate their effectiveness (e.g. linear vs polynomial).
+5. Have an understanding of hierarchical models as a means of modelling connections between datasets or processes.
 
 ## Schedule
 
