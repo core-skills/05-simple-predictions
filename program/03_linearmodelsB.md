@@ -51,7 +51,7 @@ label = g(f(x)) > threshold
 
 ### Exercise: Using logistic regression
 
-| 10 min |
+| 20 min |
 | ------ |
 
 Open and go through [XXXX.ipynb].
@@ -88,7 +88,7 @@ This refers to how to select a model for a particular problem:
 
 ### Exercise: Importance of validation
 
-| 10 min |
+| 20 min |
 | ------ |
 
 Open and go through [XXXX.ipynb].
@@ -97,7 +97,7 @@ Open and go through [XXXX.ipynb].
 
 ### Bias-variance trade-off
 
-| 20 min |
+| 15 min |
 | ------ |
 
 The bias-variance trade-off results from minimizing two sources of error at the same time:
