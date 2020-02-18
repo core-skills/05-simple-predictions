@@ -45,14 +45,12 @@ We had an overview of the data analysis workflow on day 3, which consists in goi
 
 Machine learning corresponds to step 4, and is fundamentally about “building models of data”. It has philosophical connections to artificial intelligence and human and animal learning, but these are mostly irrelevant in practice.
 
-### Exercise: Setting up a notebook for modeling
+### Exercise: Explore a dataset using pandas and seaborn
 
 | *20 min*  |
 | --------- |
 
-Open and go through [XXXX.ipynb].
-
-[ii. Exercise and recap on Seaborn and pair programming: We’ll open a dataframe from CSV or Excel data and then use Seaborn for linear regression. (10 mins)]
+Open [am1_models_and_regression.ipynb](../notebooks/am1_models_and_regression.ipynb) and go through exercise 1.
 
 ### Categories of machine learning
 
@@ -111,14 +109,12 @@ The API is consistent across methods, based on three main steps:
    y_pred = model(x_pred)
    ```
 
-### Exercise: Using scikit-learn
+### Exercise: Linear regression with scikit-learn
 
 | *20 min*  |
 | --------- |
 
-Open and go through [XXXX.ipynb].
-
-[vi. Exercise: Working in pairs, open the dataset previously used again, use scikit-learn to fit a linear least-squares regression, and create a scatter plot in Seaborn, with the fitted line estimated using Scikit-Learn. (15 mins)]
+Open [am1_models_and_regression.ipynb](../notebooks/am1_models_and_regression.ipynb) and go through exercise 2.
 
 | :triangular_flag_on_post: Use GitHub to save your notebook   |
 | ------------------------------------------------------------ |
@@ -163,9 +159,7 @@ lotting residuals can help to check that those assumptions are met.
 | *15 min* |
 | -------- |
 
-Open and go through [XXXX.ipynb].
-
-[iii.    Exercise: We’ll create perfect linear data, and linear data with Gaussian random noise, and non-gaussian random noise, data with outliers, and nonlinear data.  We’ll find and plot the standardized residuals, and we’ll (optionally) also do a monte-carlo simulation to observe the error on predicted parameters for a simulated process. (15 min)
+Open [am1_models_and_regression.ipynb](../notebooks/am1_models_and_regression.ipynb) and go through exercise 3.
 
 ### R<sup>2</sup>, the coefficient of determination
 
@@ -187,4 +181,4 @@ Therefore it should not be the only criteria used to assess the goodness of the 
 | *5 min* |
 | ------- |
 
-:heavy_exclamation_mark: If two variables are independent, the coefficient of determination and the correlation coefficient are equal to 0, but the inverse isn't true: those coefficients measure the linear dependencies between two variable, and miss any non-linear dependency.
+:heavy_exclamation_mark: If two variables are independent, the correlation coefficient is equal to 0, but the inverse isn't true: this coefficient measures the linear dependencies between two variable, and misses any non-linear dependency.
