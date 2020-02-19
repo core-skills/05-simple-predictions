@@ -10,25 +10,31 @@
 | 20 min |
 | ------ |
 
-Alternatives to the ordinary least-squares regression are sometimes needed when there are outliers present or when errors are not normally distributed.
+Alternatives to the ordinary least-squares (OLS) regression are sometimes needed when there are outliers present or when errors are not normally distributed.
 
-## Outliers
+## RANSAC
 
-| 5 min |
-| ----- |
+RANSAC stands for RANdom SAmple Consensus. The approach seeks to identify outliers in the data by iteratively sampling the data points, fitting a linear model, and using the model to divde the data into *outliers* and *inliers*. 
 
-## Theil-Sen, RANSAC, Huber Regressor
+[RANSAC Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html#sklearn.linear_model.RANSACRegressor)
 
-| 5 min |
-| ----- |
+## Theil-Sen 
 
-[Robust linear estimator fitting](https://scikit-learn.org/stable/auto_examples/linear_model/plot_robust_fit.html#sphx-glr-auto-examples-linear-model-plot-robust-fit-py)
+The Theil-Sen regressor fits a line to pairs of points in the data and selects the median slope as the line of best fit.
 
-## Exercise: Comparison of robust regression to linear regression
+[Theil-Sen Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.TheilSenRegressor.html#sklearn.linear_model.TheilSenRegressor)
 
-| 10 min |
-| ----- |
+## Huber
 
+ Using an alternative definition of the *loss function* to measure how well the model fits our data in addition to the *mean squared error* is the basis of the [Huber Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.HuberRegressor.html#sklearn.linear_model.HuberRegressor) in scikit-learn.
+
+[Introduction to Loss Functions](https://algorithmia.com/blog/introduction-to-loss-functions)
+
+[Huber regression](https://towardsdatascience.com/generalized-huber-regression-505afaff24c)
+
+## Comparison of robust regression to linear regression
+
+[Robust linear estimator fitting](https://scikit-learn.org/stable/auto_examples/linear_model/plot_robust_fit.html)
 
 
 [Overview](./00_overview.md) |
