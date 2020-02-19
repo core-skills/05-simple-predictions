@@ -12,7 +12,7 @@
 
 ## Recap statistics and regression
 
-| 5 min |
+| 10 min |
 | ------ |
 
 | :triangular_flag_on_post: Questions on content discussed this morning? |
@@ -28,33 +28,26 @@ In some cases, it may not be obvious that a linear relatonship exists between th
 
 Data transformations can be useful in order to help ensure that the [statistical assumptions behind a linear regression](./01_modelsregression.md) are met. In particular, transformations ensuring error variance (heteroscedasticity) and normality assumptions hold.
 
+### Quantile-Quantile plot
 
-
-### ?? QQ plot, histogram/distribution ??
-
-| 10 min |
+| 5 min |
 | ------ |
 
  To get an idea of whether or not a transformation may be needed in order to make the residuals or data meet the criteria of being normal, we can look at histogram or use a quantile-quantile plot.
 
-
-### Resampling
-
-| 5 min |
-| ------ |
-
-### Reciprocal relationships
-| 5 min |
-| ------ |
-
-y<sup>*</sup> = 1/y
+[Understanding qq plots] (https://data.library.virginia.edu/understanding-q-q-plots/)
 
 ### Power Transforms
 
-| 10 min |
+| 15 min |
 | ------ |
 
 [How to Use Power Transforms for Time Series Forecast Data with Python](https://machinelearningmastery.com/power-transform-time-series-forecast-data-python/)
+#### Reciprocal
+
+y<sup>*</sup> = 1/y = y<sup>-1</sup>
+
+Reciprocal transforms can be useful to make data values more manageable, for example with values that represent ratios. A reciprocal transform does not help in ensuring data and residuals meet assumptions.
 
 #### Logarithm
 
@@ -78,7 +71,9 @@ Power transforms can take on various forms, and the square-root is another examp
 #### Box-Cox
 y<sup>*</sup>  = y<sup>&#955;</sup>
 
-The Box-Cox is a generalized transformation where the exponent (lambda) defines the power. 
+The Box-Cox is the generalized transformation where the exponent (lambda) defines the power. 
+
+[Box-Cox Transformation](https://www.statisticshowto.datasciencecentral.com/box-cox-transformation/)
 
 #### ...
 [scikit-learn demo](https://scikit-learn.org/stable/auto_examples/compose/plot_transformed_target.html#sphx-glr-auto-examples-compose-plot-transformed-target-py)
@@ -102,15 +97,17 @@ y = b + ax + cx<sup>2</sup>
 
 [scikit-learn polynomial](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
 
-
-## Exercise: Predicting Metal Recovery
+### Resampling
 
 | 10 min |
 | ------ |
 
+http://benalexkeen.com/resampling-time-series-data-with-pandas/
+
+
 ## Checkpoint and Wrap-up
 
-| 5 min |
+| 10 min |
 | ------ |
 
 | :triangular_flag_on_post: Is everyone up to speed? How are people going? |
