@@ -91,8 +91,6 @@ This refers to how to select a model for a particular problem:
 
 Open [pm1-linear-models-II.ipynb](../notebooks/pm1-linear-models-II.ipynb) and go through exercise 2.
 
-[ii. Exercise: Create a model and apply poor validation. Then re-run with a holdout set and measure performance more realistically (10 mins)]
-
 ### Bias-variance trade-off
 
 | *15 min* |
