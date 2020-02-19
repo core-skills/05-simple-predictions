@@ -16,7 +16,7 @@
 | ------ |
 
 | :triangular_flag_on_post: Questions on content discussed this morning? |
-| ------------------------------------------------------------------------ |
+| ---------------------------------------------------------------------- |
 
 
 ## Data transformations
@@ -111,6 +111,7 @@ http://benalexkeen.com/resampling-time-series-data-with-pandas/
 | ------ |
 
 | :triangular_flag_on_post: Is everyone up to speed? How are people going? |
+| ------------------------------------------------------------------------ |
 
 [Overview](./00_overview.md) |
 [Models & Regression](./01_modelsregression.md) |
