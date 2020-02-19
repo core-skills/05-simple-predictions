@@ -35,7 +35,7 @@ Data transformations can be useful in order to help ensure that the [statistical
 
  To get an idea of whether or not a transformation may be needed in order to make the residuals or data meet the criteria of being normal, we can look at histogram or use a quantile-quantile plot.
 
-[Understanding qq plots] (https://data.library.virginia.edu/understanding-q-q-plots/)
+[Understanding qq plots](https://data.library.virginia.edu/understanding-q-q-plots/)
 
 ### Power Transforms
 
