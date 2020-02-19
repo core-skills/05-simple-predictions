@@ -54,9 +54,7 @@ label = g(f(x)) > threshold
 | *20 min* |
 | -------- |
 
-Open and go through [XXXX.ipynb].
-
-[iii.    Exercise: Apply logistic regression to a simple classification problem and measure performance using confusion matrix, and precision and recall. (10 mins)]
+Open [pm1-linear-models-II.ipynb](../notebooks/pm1-linear-models-II.ipynb) and go through exercise 1.
 
 | Short break: 10 min |
 | ------------------- |
@@ -91,7 +89,7 @@ This refers to how to select a model for a particular problem:
 | *20 min* |
 | -------- |
 
-Open and go through [XXXX.ipynb].
+Open [pm1-linear-models-II.ipynb](../notebooks/pm1-linear-models-II.ipynb) and go through exercise 2.
 
 [ii. Exercise: Create a model and apply poor validation. Then re-run with a holdout set and measure performance more realistically (10 mins)]
 

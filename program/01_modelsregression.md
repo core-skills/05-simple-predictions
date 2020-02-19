@@ -50,7 +50,7 @@ Machine learning corresponds to step 4, and is fundamentally about “building m
 | *20 min*  |
 | --------- |
 
-Open [am1_models_and_regression.ipynb](../notebooks/am1_models_and_regression.ipynb) and go through exercise 1.
+Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ipynb) and go through exercise 1.
 
 ### Categories of machine learning
 
@@ -82,7 +82,9 @@ Today, we'll talk about linear and logistic regression.
 | :question: How industry problems fit into these categories?   |
 | ------------------------------------------------------------- |
 
-Scikit-learn has a nice flowchart to help find the right method for the right problem and dataset: [scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+Scikit-learn has a nice flowchart to help find the right method for the right problem and dataset: 
+
+[scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ### Scikit-learn basics and API
 
@@ -114,7 +116,7 @@ The API is consistent across methods, based on three main steps:
 | *20 min*  |
 | --------- |
 
-Open [am1_models_and_regression.ipynb](../notebooks/am1_models_and_regression.ipynb) and go through exercise 2.
+Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ipynb) and go through exercise 2.
 
 | :triangular_flag_on_post: Use GitHub to save your notebook   |
 | ------------------------------------------------------------ |
@@ -159,7 +161,7 @@ lotting residuals can help to check that those assumptions are met.
 | *15 min* |
 | -------- |
 
-Open [am1_models_and_regression.ipynb](../notebooks/am1_models_and_regression.ipynb) and go through exercise 3.
+Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ipynb) and go through exercise 3.
 
 ### R<sup>2</sup>, the coefficient of determination
 
