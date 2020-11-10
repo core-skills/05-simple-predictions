@@ -28,12 +28,13 @@
 | 07:30 - 07:45 | 09:30 - 09:45 | Q&A, Issues & Announcements   |
 | 07:45 - 09:15 | 09:45 - 11:15 | [**Models & Regression**]     |
 | 09:15 - 09:30 | 11:15 - 11:30 | *Morning Tea*                 |
-| 09:30 - 11:00 | 11:30 - 13:00 | [**Linear Models I**]         |
+| 09:30 - 10:00 | 11:30 - 12:00 | [**Models & Regression**]     |
+| 10:00 - 11:00 | 12:00 - 13:00 | [**Linear Models I**]         |
 | 11:00 - 11:45 | 13:00 - 13:45 | *Lunch*                       |
 | 11:45 - 13:15 | 13:45 - 15:15 | [**Linear Models II**]        |
 | 13:15 - 13:30 | 15:15 - 15:30 | *Afternoon Tea*               |
 | 13:30 - 13:50 | 15:30 - 15:50 | [**Robust Regression**]       |
-| 13:50 - 15:00 | 15:50 - 17:00 | **Apply to your own Problem** |
+| 13:50 - 14:45 | 15:50 - 16:45 | **Apply to your own Problem** |
 | 14:45 - 15:00 | 16:45 - 17:00 | [**Closeout**]                |
 
 

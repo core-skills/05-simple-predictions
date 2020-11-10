@@ -24,13 +24,13 @@ And a glossary:
 
 ## Regression as machine learning and the scikit learn framework
 
-| 70 min |
+| 90 min |
 | ------ |
 
 ### Short introduction to data analytics and machine learning
 
-| *5 min*  |
-| -------- |
+| *10 min*  |
+| --------- |
 
 | :question: What are the main steps of the data analysis workflow?   |
 | ------------------------------------------------------------------- |
@@ -121,12 +121,12 @@ Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ip
 | :triangular_flag_on_post: Use GitHub to save your notebook   |
 | ------------------------------------------------------------ |
 
-| Short break: 10 min |
+| Short break: 15 min |
 | ------------------- |
 
 ## Statistical assumptions in linear regression problems
 
-| 40 min |
+| 30 min |
 | ------ |
 
 ### Overview of least-squares linear regression
@@ -144,8 +144,8 @@ Where *y* is the output, or dependent variable, *a* is the coefficient, correspo
 
 ### Statistical assumptions behind a linear regression
 
-| *10 min* |
-| -------- |
+| *5 min* |
+| ------- |
 
 Technically, several assumptions has to be met to use a linear regression based on the idea of a random term on top of the linear model:
 
@@ -158,7 +158,7 @@ lotting residuals can help to check that those assumptions are met.
 
 ### Exercise: Perturbing perfect linear data
 
-| *15 min* |
+| *10 min* |
 | -------- |
 
 Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ipynb) and go through exercise 3.
