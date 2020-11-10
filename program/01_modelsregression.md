@@ -147,14 +147,14 @@ Where *y* is the output, or dependent variable, *a* is the coefficient, correspo
 | *5 min* |
 | ------- |
 
-Technically, several assumptions has to be met to use a linear regression based on the idea of a random term on top of the linear model:
+Technically, several assumptions have to be met to use a linear regression based on the idea of a random term on top of the linear model:
 
 1. The average random error is equal to 0 (i.e., the model has no bias).
 2. The variance of the random error is constant (aka the homoscedasticity assumption).
 3. The error term is independent of the explanatory and dependent variable.
 4. The distribution of the random error is Gaussian.
 
-lotting residuals can help to check that those assumptions are met.
+Plotting residuals can help to check that those assumptions are met.
 
 ### Exercise: Perturbing perfect linear data
 
