@@ -10,4 +10,4 @@ While linear regression is something you've most certainly encountered before, w
 
 ## Pre-session Reading & Resources
 
-**Todo:** there is no pre-reading at this time, but after the session we'll add resources that will be of value to you.  Please browse through them before next week.
+**Todo:** there is no pre-reading at this time. Consider browsing through the program which has links to further resources to browse.

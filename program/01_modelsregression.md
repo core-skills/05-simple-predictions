@@ -24,13 +24,13 @@ And a glossary:
 
 ## Regression as machine learning and the scikit learn framework
 
-| 70 min |
+| 90 min |
 | ------ |
 
 ### Short introduction to data analytics and machine learning
 
-| *5 min*  |
-| -------- |
+| *10 min*  |
+| --------- |
 
 | :question: What are the main steps of the data analysis workflow?   |
 | ------------------------------------------------------------------- |
@@ -121,12 +121,12 @@ Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ip
 | :triangular_flag_on_post: Use GitHub to save your notebook   |
 | ------------------------------------------------------------ |
 
-| Short break: 10 min |
+| Short break: 15 min |
 | ------------------- |
 
 ## Statistical assumptions in linear regression problems
 
-| 40 min |
+| 30 min |
 | ------ |
 
 ### Overview of least-squares linear regression
@@ -144,21 +144,21 @@ Where *y* is the output, or dependent variable, *a* is the coefficient, correspo
 
 ### Statistical assumptions behind a linear regression
 
-| *10 min* |
-| -------- |
+| *5 min* |
+| ------- |
 
-Technically, several assumptions has to be met to use a linear regression based on the idea of a random term on top of the linear model:
+Technically, several assumptions have to be met to use a linear regression based on the idea of a random term on top of the linear model:
 
 1. The average random error is equal to 0 (i.e., the model has no bias).
 2. The variance of the random error is constant (aka the homoscedasticity assumption).
 3. The error term is independent of the explanatory and dependent variable.
 4. The distribution of the random error is Gaussian.
 
-lotting residuals can help to check that those assumptions are met.
+Plotting residuals can help to check that those assumptions are met.
 
 ### Exercise: Perturbing perfect linear data
 
-| *15 min* |
+| *10 min* |
 | -------- |
 
 Open [am1-models-and-regression.ipynb](../notebooks/am1-models-and-regression.ipynb) and go through exercise 3.
